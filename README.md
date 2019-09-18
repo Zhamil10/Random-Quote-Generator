@@ -78,3 +78,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # Random-quote-machine
 # Random-quote-machine
 # Random-Quote-Generator
+# Random-Quote
